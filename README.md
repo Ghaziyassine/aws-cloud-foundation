@@ -9,5 +9,14 @@
 ![image](https://github.com/user-attachments/assets/85632fb0-cf5a-4cac-a7db-8c7959cd6d83)
 ![image](https://github.com/user-attachments/assets/cc912c53-bfa7-403e-8a9e-909d31810247)
 
+#Iaas Paas Saas
+![image](https://github.com/user-attachments/assets/d294b149-1352-445d-a7ab-1e158ac1a59e)
+![image](https://github.com/user-attachments/assets/38be3d13-c98a-4f6e-b0cd-c1c49cbfbadc)
+#IAM idantity access management
+![image](https://github.com/user-attachments/assets/44607791-73fd-4b60-910b-f0f27eef1f8c)
+![image](https://github.com/user-attachments/assets/d93bad7a-6ebf-4550-8a26-ad65e3733626)
+
+
+
 
 
