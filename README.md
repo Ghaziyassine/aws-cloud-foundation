@@ -17,6 +17,16 @@
 ![image](https://github.com/user-attachments/assets/d93bad7a-6ebf-4550-8a26-ad65e3733626)
 
 
+# VPC
+![image](https://github.com/user-attachments/assets/ff0feed7-f305-456a-b96a-f2bcc37f8a51)
+![image](https://github.com/user-attachments/assets/6a1f808d-1602-4bff-aadc-59ba81eb51b1)
+![image](https://github.com/user-attachments/assets/9f913bc8-e72c-448a-9565-813dda4f5c27)
+![image](https://github.com/user-attachments/assets/dfc2731c-6db7-4110-840b-439e41a8570e)
+![image](https://github.com/user-attachments/assets/f97d941a-1374-47ef-af42-8069502e1178)
+![image](https://github.com/user-attachments/assets/f2d2e13f-2bc9-4ff1-932a-0f9ae9f0ac5f)
+
+# AWS Route53
+![image](https://github.com/user-attachments/assets/d2533a73-fab9-47d1-8833-cddcee908d95)
 
 
 
