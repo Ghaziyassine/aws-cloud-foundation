@@ -28,5 +28,8 @@
 # AWS Route53
 ![image](https://github.com/user-attachments/assets/d2533a73-fab9-47d1-8833-cddcee908d95)
 
+# Labs
+## 2
+![image](https://github.com/user-attachments/assets/3cc9dd14-24c0-4ebc-bb7b-6502106c2038)
 
 
